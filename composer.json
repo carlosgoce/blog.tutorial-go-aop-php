@@ -1,0 +1,9 @@
+{
+    "require": {
+        "lisachenko/go-aop-php": "0.4.3"
+    },
+    "autoload": {
+        "psr-0": {"": "src/"},
+        "classmap": ["app/aop/"]
+    }
+}
